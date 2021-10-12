@@ -6,6 +6,9 @@
  Codificação de um redesign do projeto Bikcraft feito no curso de Web Design Completo da <a href="https://www.origamid.com/">Origamid</a>
 </h4>
 <img src="https://i.imgur.com/bfbY2Pu.png">
+<h4 align="center"><a href="https://arlissonc.github.io/bikcraft-redesign/">Clique para visitar o projeto</a></h4>
+
+##
 
 Utilizei os conhecimentos adiquiridos durante os cursos de Web Design Completo e JavaScript Completo ES6+ (<a href="https://www.origamid.com/">Origamid</a>) para a codificação e implementação de interatividade com o usuário.
 
